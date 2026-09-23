@@ -169,3 +169,4 @@ dir.create("data/processed", showWarnings = FALSE)
 write.csv(casen, "data/processed/casen_s5_derivadas.csv", row.names = FALSE)
 
 file.exists("data/processed/casen_s5_derivadas.csv")
+
